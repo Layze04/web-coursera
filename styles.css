@@ -1,3 +1,20 @@
+/* CSS for the body tag */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* CSS for the header tag */
+header {
+  background-color: #f8f9fa;
+}
+
+/* CSS for the nav tag */
+nav {
+  background-color: #e9ecef;
+}
+
+/* CSS for the main tag */
 main {
   background-color: #fff;
   font-size: 18px;
