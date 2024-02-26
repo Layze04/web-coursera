@@ -1,3 +1,31 @@
+
+nav {
+    display: inline-block;
+    width: 80%;
+}
+
+nav img {
+    width: 10%;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: center; /* Adjust as needed */
+    align-items: center; /* Adjust as needed */
+    row-gap: 20px; /* Adjust as needed */
+}
+
+.grid img {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap; /* Adjust as needed */
+    justify-content: space-between; /* Adjust as needed */
+}
+
 /* CSS for the body tag */
 body {
   font-family: Arial, sans-serif;
